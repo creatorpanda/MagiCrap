@@ -1,7 +1,7 @@
 *"oh crap, the game froze, now what?"*
 # MagiCrap!
 A super simple script that kills the PC game "Magicka" after it misbehaves due to multiplayer issues (***client side***).
-It was created to safely stop the game from working on the background. **Please read**.
+It was created to safely stop the game from working in the background. **Please read**.
 
 # Why i made this
 When the host started a multiplayer game (**3 players in total**: me, the host playing with mouse and keyboard and his local friend playing from the same PC with a controller), **his client would most of the time crash/close and my client would stay forever in the loading screen** unless i killed the game using a CMD, cause just pressing the X button from the taskbar icon would make the icon disappear but **the game would keep running as an invisible task**, therefore being unable to start it again.
