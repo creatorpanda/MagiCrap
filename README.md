@@ -5,7 +5,7 @@ It was created to safely stop the game from working on the background. **Please 
 # Why i made this
 When the host started a multiplayer game (**3 players in total**: me, the host playing with mouse and keyboard and his local friend playing from the same PC with a controller), **his client would most of the time crash/close and my client would stay forever in the loading screen** unless i killed the game using a CMD, cause just pressing the X button from the taskbar icon would make the icon disappear but **the game would keep running as an invisible task**, therefore being unable to start it again.
 
-*The host's Steam client would freeze and he would have to restard his PC. So i changed this script a bit and Created the KillSteam.bat script! I may upload it as well, here or independently! :D*
+*The host's Steam client would freeze and he would have to restart his PC. So i changed this script a bit and Created the KillSteam.bat script! I may upload it as well, here or independently! :D*
 
 # Notes
 *Note: This script only safely kills/stops the game. It does ***NOT*** fix the issue. It's just a safe and fast solution rather than restarting your whole PC in the case of getting stuck in the loading screen - **as a game's client and not a host** - so you can get to try and restart the whole client again.*
