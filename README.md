@@ -14,4 +14,4 @@ When the host started a multiplayer game (**3 players in total**: me, the host p
 **SUPER WARNING!!!: Your Windows Defender (or other programs) may tag this file as "not safe" or something and try to prevent you from running it(maybe because it's trying to kill the game process). Don't worry, it's false positive! It's totally safe!**
 
 # How to use
-In case you don't know what to do: Click on the green "Clone or Download" button, click "Download Zip". Unzip it and run "Magicrap!.bat".
+In case you don't know what to do: Click on the green "Clone or Download" button, click "Download Zip". Unzip it and run "MagiCrap!.bat".
