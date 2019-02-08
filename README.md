@@ -1,4 +1,5 @@
-# Magicrap
+*"oh crap, the game froze, now what?"*
+# MagiCrap!
 A super simple script that kills the PC game "Magicka" after it misbehaves due to multiplayer issues (***client side***).
 It was created to safely stop the game from working on the background. **Please read**.
 
